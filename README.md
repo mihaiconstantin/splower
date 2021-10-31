@@ -1,6 +1,6 @@
 # This repository has been renamed
 
-### If you've reached this page you are most likely looking for [github.com/mihaiconstantin/powerly](https://github.com/mihaiconstantin/powerly).
+#### If you've reached this page you are probably looking for [github.com/mihaiconstantin/powerly](https://github.com/mihaiconstantin/powerly).
 
 ---
 
